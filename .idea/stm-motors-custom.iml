@@ -4,5 +4,12 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="custom-elementor-icons" />
+    <orderEntry type="module" module-name="motors-elementor-widgets" />
+    <orderEntry type="module" module-name="stm-megamenu" />
+    <orderEntry type="module" module-name="stm-motors-extends" />
+    <orderEntry type="module" module-name="stm_vehicles_listing" />
+    <orderEntry type="module" module-name="motors" />
+    <orderEntry type="module" module-name="motors-child" />
   </component>
 </module>

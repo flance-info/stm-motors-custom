@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../custom-elementor-icons/.idea/custom-elementor-icons.iml" filepath="$PROJECT_DIR$/../custom-elementor-icons/.idea/custom-elementor-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../themes/motors/.idea/motors.iml" filepath="$PROJECT_DIR$/../../themes/motors/.idea/motors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../themes/motors-child/.idea/motors-child.iml" filepath="$PROJECT_DIR$/../../themes/motors-child/.idea/motors-child.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../motors-elementor-widgets/.idea/motors-elementor-widgets.iml" filepath="$PROJECT_DIR$/../motors-elementor-widgets/.idea/motors-elementor-widgets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stm-megamenu/.idea/stm-megamenu.iml" filepath="$PROJECT_DIR$/../stm-megamenu/.idea/stm-megamenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/stm-motors-custom.iml" filepath="$PROJECT_DIR$/.idea/stm-motors-custom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stm-motors-extends/.idea/stm-motors-extends.iml" filepath="$PROJECT_DIR$/../stm-motors-extends/.idea/stm-motors-extends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stm_vehicles_listing/.idea/stm_vehicles_listing.iml" filepath="$PROJECT_DIR$/../stm_vehicles_listing/.idea/stm_vehicles_listing.iml" />
     </modules>
   </component>
 </project>

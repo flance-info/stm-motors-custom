@@ -1,0 +1,28 @@
+body.stm-hoverable-interactive-galleries.stm-template-car_dealer_elementor
+.archive-listing-page .car-listing-row .image{
+	    min-height: 175px;
+}
+body.stm-hoverable-interactive-galleries.stm-template-car_dealer_elementor .car-listing-tabs-unit
+.archive-listing-page .car-listing-row .image{
+	min-height: 175px;
+
+}
+.stm-template-car_dealer_elementor .car-listing-tabs-unit .car-listing-row .image img {
+    max-height: 300px;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+body.stm-hoverable-interactive-galleries .car-listing-tabs-unit .interactive-hoverable .hoverable-wrap .hoverable-unit .thumb img {
+    display: block;
+    height: 100%;
+    -o-object-fit: contain;
+    object-fit: contain;
+    transition: opacity 0.15s;
+    width: 100%;
+}
+
+body.stm-template-car_dealer_elementor .car-listing-tabs-unit .car-listing-row .image {
+    max-height: 190px;
+		min-height: 175px;
+		width: 100% !important;
+}
