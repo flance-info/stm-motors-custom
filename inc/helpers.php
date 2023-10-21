@@ -36,7 +36,10 @@ if ( ! function_exists( 'stm_get_hoverable_thumbs_child' ) ) {
 	function stm_get_hoverable_thumbs_child( $returned_value, $listing_id, $thumb_size = 'thumbnail' ) {
 		//$thumb_size = 'full';
 
-		if ($thumb_size == 'stm-img-255-135' )  $thumb_size = 'stm-img-255-175';
+		if ($thumb_size == 'stm-img-255-135' )  $thumb_size = 'stm-img-255-176';
+		if ($thumb_size == 'stm-img-350-205' )  $thumb_size = 'stm-img-350-250';
+
+
 		$ids   = array_unique( (array) get_post_meta( $listing_id, 'gallery', true ) );
 		$count = 0;
 
@@ -85,4 +88,5 @@ if ( ! function_exists( 'stm_get_hoverable_thumbs_child' ) ) {
 	add_filter( 'stm_get_hoverable_thumbs', 'stm_get_hoverable_thumbs_child', 30, 3 );
 }
 
-add_image_size( 'stm-img-255-175', 255, 175, true );
+add_image_size( 'stm-img-255-176', 255, 176, false );
+add_image_size( 'stm-img-350-250', 350, 250, false );
